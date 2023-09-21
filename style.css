@@ -24,7 +24,7 @@
 }
 
 textarea {
-    width: 600px;
+    width: 800px;
     height: 250px;
     background: #403d84;
     font-size: 15px;
@@ -32,7 +32,7 @@ textarea {
     outline: 0;
     padding: 20px;
     border-radius: 10px;
-    resize: none;
+    resize: vertical;
     margin-bottom: 30px;
     color: #fff;
 }
